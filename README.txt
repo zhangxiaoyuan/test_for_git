@@ -5,3 +5,4 @@ sdisP
 
 fix bug for issue
 fix bug for issue-002
+test for stash
